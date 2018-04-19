@@ -1,5 +1,6 @@
 def speak_to_grandma (input)
-  if input.
+  if input.upcase == input
+    
 end
 
 # Write a speak_to_grandma method.
