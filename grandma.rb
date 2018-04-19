@@ -1,5 +1,5 @@
 def speak_to_grandma(input)
-  if input.upcase != input
+  if input != input.upcae
     return "HUH?! SPEAK UP, SONNY!"
   
   else 
