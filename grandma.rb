@@ -1,10 +1,6 @@
 def speak_to_grandma(input)
-  if input.upcase != input
-    return "HUH?! SPEAK UP, SONNY!"
-  elsif input == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO PUMPKIN!"
-  else 
-    return "HUH?! SPEAK UP, SONNY!"
+  "HUH?! SPEAK UP, SONNY!"
+  
 end
 
 
