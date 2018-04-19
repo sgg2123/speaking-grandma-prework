@@ -1,5 +1,7 @@
 def speak_to_grandma (input)
   if input.upcase == input
+    puts "I LOVE YOU TOO PUMPKIN!"
+  else 
     puts 
 end
 
